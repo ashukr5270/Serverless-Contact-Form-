@@ -6,7 +6,7 @@ Serverless-Contact-Form (API -> Function -> DB):-
 ![Image](https://github.com/ashukr5270/Serverless-Contact-Form-/blob/main/Image.jpeg?raw=true)
 
 
-AWS:
+AWS:-
 
 * Create a DynamoDB Table: Set up a simple NoSQL table to store form entries.
 
