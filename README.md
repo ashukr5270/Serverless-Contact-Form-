@@ -14,6 +14,6 @@ AWS:-
   DynamoDB.
 
 * Create an API Gateway Endpoint: Configure an HTTP endpoint that triggers your Lambda function on a POST 
-request.
+  request.
 
 * Update Frontend: Point your HTML form's action to the API Gateway URL.
