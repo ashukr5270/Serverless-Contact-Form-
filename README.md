@@ -3,7 +3,7 @@ Serverless-Contact-Form (API -> Function -> DB):-
 (https://8cgr9b5o0l.execute-api.ap-south-1.amazonaws.com/ashishkr)
 
 
-![Image](https://github.com/ashukr5270/Serverless-Contact-Form-/blob/main/Image.jpeg?raw=true)
+![Image](https://github.com/ashukr5270/Serverless-Contact-Form-/blob/main/aws-serverless-contact-form-Image.png?raw=true)
 
 
 AWS:-
